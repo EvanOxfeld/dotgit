@@ -1,0 +1,19 @@
+[user]
+        name = Evan Oxfeld
+        email = eoxfeld@gmail.com
+[color]
+        diff = auto
+        status = auto
+        branch = auto
+        ui = true
+
+[alias]
+  st = status
+  br = branch
+  co = checkout
+[push]
+        default = upstream
+[core]
+        excludesfile = ~/.gitignore_global
+[diff]
+        mnemonicprefix = true
