@@ -15,5 +15,9 @@
         default = upstream
 [core]
         excludesfile = ~/.gitignore_global
+	editor = vim
+	autocrlf = input
 [diff]
         mnemonicprefix = true
+[credential]
+	helper = cache --timeout=86400
