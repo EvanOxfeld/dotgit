@@ -1,0 +1,10 @@
+*.log
+*.out
+*.pid
+
+logs
+
+#package managers
+node_modules
+npm-debug.log
+bower_components
