@@ -2,9 +2,15 @@
 *.out
 *.pid
 
+.DS_Store
+
 logs
 
 #package managers
 node_modules
 npm-debug.log
 bower_components
+
+#IDEs and Editors
+.vimrc
+*.swp
