@@ -12,7 +12,7 @@
   br = branch
   co = checkout
 [push]
-        default = upstream
+	default = simple
 [core]
         excludesfile = ~/.gitignore_global
 	editor = vim
